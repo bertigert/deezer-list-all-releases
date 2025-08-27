@@ -4,7 +4,7 @@ Simple userscript which allows you to view ALL releases of an artist on the arti
 No UI, just a patch.
 
 ## Desktop
-Thanks to [DeezMod](https://github.com/bertigert/DeezMod/) also available for Desktop on Windows. See [here](https://github.com/bertigert/DeezMod/blob/main/plugins/display_all_songs.js)
+Thanks to [DeezMod](https://github.com/bertigert/DeezMod/) also available for Desktop on Windows. See [here](https://github.com/bertigert/DeezMod/blob/main/plugins/display_all_songs/display_all_songs.js)
 
 ### Links
 [GitHub](https://github.com/bertigert/deezer-list-all-releases)
